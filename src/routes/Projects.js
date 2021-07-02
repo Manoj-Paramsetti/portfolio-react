@@ -6,18 +6,19 @@ function Project(){
     return(
         <div>
             <Nav page="Projects" />
-        
-        <section style={{height:"88px"}}>
-            <h1 style={{fontSize: "33px", 
-            fontFamily: 'Montserrat',
-            fontWeight: 600,
-            color: "#FF5555",
-            textAlign: "center"}}>
-                Projects
-            </h1>
-        </section>
-        <Main />
-    </div>
+            <section style={{height:"88px"}}>
+            </section>
+            <section style={{height:"88px"}}>
+                <h1 style={{fontSize: "33px", 
+                fontFamily: 'Montserrat',
+                fontWeight: 600,
+                color: "#FF5555",
+                textAlign: "center"}}>
+                    Projects
+                </h1>
+            </section>
+            <Main />
+        </div>
     )
 }
 

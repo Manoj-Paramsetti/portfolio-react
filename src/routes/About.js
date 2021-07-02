@@ -6,7 +6,8 @@ function About(){
     return(
         <div>
             <Nav page="About" />
-            
+            <section style={{height:"88px"}}>
+            </section>
             <section id="Home">
 
                 <section id="img">
