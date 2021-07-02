@@ -1,6 +1,6 @@
 import React from 'react';
-import Nav from '../components/nav'
-import Projects from './Projects'
+import Nav from '../components/nav';
+
 function About(){
 
     return(
