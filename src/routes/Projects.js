@@ -6,7 +6,7 @@ function Project(){
     return(
         <div>
             <Nav page="Projects" />
-            <section style={{height:"88px"}}>
+            <section style={{height:"128px"}}>
             </section>
             <section style={{height:"88px"}}>
                 <h1 style={{fontSize: "33px", 

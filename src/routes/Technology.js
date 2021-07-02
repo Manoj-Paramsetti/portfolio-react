@@ -5,7 +5,7 @@ function Tech(){
     return(
         <div>
             <Nav page="Technology" />
-            <section style={{height:"88px"}}>
+            <section style={{height:"128px"}}>
             </section>
             <h2 style={{color: "#ee5253"}}>Technology Skills</h2>
             <div style={{ textAlign:"start" , fontFamily: "Work Sans", marginLeft: "auto", marginRight: "auto", maxWidth: "720px", paddingLeft: "40px", paddingRight: "40px"}}>
