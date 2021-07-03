@@ -54,7 +54,7 @@ body {
 }
 
 #NavBar__Left__Part {
-    width: 370px;
+    width: auto;
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
@@ -64,7 +64,7 @@ body {
 }
 
 #NavBar__Right__Part {
-    width: 70px;
+    width: auto;
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
@@ -425,6 +425,12 @@ input[type="checkbox"]:checked~span:nth-of-type(3) {
     background: url("https://freesvg.org/img/moon-and-stars.png");
     background-size: cover;
     height: 36px;
+}
+
+@media screen and (max-width: 437px) {
+    #Github {
+        margin-top: -27px;
+    }
 }
 
 @media screen and (max-width: 650px) {

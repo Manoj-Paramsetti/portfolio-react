@@ -20,10 +20,10 @@ function Project(){
                     <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1yJRO9gsKzwjuYChZ7v8P5DOxutcAhAEF/view">Resume</a>
                     {'\n\n\n'}
                     <h5 style={{opacity: "0.6", fontFamily: "Work Sans"}}>Contact</h5>{'\n'}
-                    <a href = "/projects"  >Gmail </a>{'\n\n'}
-                    <a href = "/projects"  >Telegram </a>{'\n\n'}
-                    <a href = "/projects"  >LinkedIn </a>{'\n\n'}
-                    
+                    <a target = "_blank" rel="noreferrer" href = "mailto:paramsetti.manoj@gmail.com"  >E-mail </a>{'\n\n'}
+                    <a target = "_blank" rel="noreferrer" href = "https://linkedin.com/in/manoj-paramsetti"  >LinkedIn </a>{'\n\n'}
+                    <a target = "_blank" rel="noreferrer" href = "https://discord.com/users/777906489498271765"  >Discord </a>{'\n\n'}
+                    <a target = "_blank" rel="noreferrer" href = "https://t.me/ManojParamsetti"  >Telegram </a>{'\n\n'}
                 </div>
             </div>
         );
