@@ -65,9 +65,7 @@ function Project(){
             </section>
             <section style={{height:"128px"}}>
             </section>
-            <section style={{height:"88px"}}>
-                
-            </section>
+            <h2 style={{color: "#ee5253"}}>Projects</h2>{'\n\n'}
             <Main />
         </div>
     )
