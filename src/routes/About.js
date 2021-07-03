@@ -15,6 +15,7 @@ function About(){
                     <a href="/" style={{color: "#FF5555"}}>About </a>{'\n\n'}
                     <a href = "/technology" >Technology </a>{'\n\n'}
                     <a href = "/projects" >Projects </a>{'\n\n'}
+                    <a target="_blank" rel="noreferrer" href="https://manoj-writes.hashnode.dev/">Blog</a>{'\n\n'}
                     <a target="_blank" href="https://drive.google.com/file/d/1yJRO9gsKzwjuYChZ7v8P5DOxutcAhAEF/view" rel="noreferrer">Resume</a>
                     {'\n\n\n'}
                     <h5 style={{opacity: "0.6", fontFamily: "Work Sans"}}>Contact</h5>{'\n'}

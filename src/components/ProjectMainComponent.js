@@ -20,6 +20,36 @@ function ProjectMain() {
         </section>
         <section id="card">
             <div class="hovercard">
+                <img style={{height: "200px"}} src="https://media.istockphoto.com/vectors/office-team-character-brainstorm-work-conference-business-people-at-vector-id1093700482?k=6&m=1093700482&s=612x612&w=0&h=UypPg3QwIT9odMhu1HFl5eQP25JkRgdMacTWHG_2JWA=" width="100%" alt="" srcSet="" />
+                <div class="bg"></div>
+            </div>
+            <h1>Education Engage</h1>
+            <p style={{fontSize: "14px", textAlign: "justify", padding: "5px", opacity: "0.8"}}>
+                A website to share the student's doubts in a FORUM, where professors and students can answer those questions and even a place to engage all students to discuss something related to academics
+                {'\n\n'}<b>Tech Stack:</b> ReactJS, NodeJS, ExpressJS, MongoDB and Firebase
+            </p>
+            {'\n'}
+            <a href="https://educationengage.vercel.app/" target="_blank" rel="noopener noreferrer">
+                <p style={{textAlign: "end", paddingRight: "8px"}}>Try</p>
+            </a>
+        </section>
+        <section id="card">
+            <div class="hovercard">
+                <img style={{height: "200px"}} src="https://dt2sdf0db8zob.cloudfront.net/wp-content/uploads/2020/10/WB-Best.jpg" width="100%" alt="" srcSet="" />
+                <div class="bg"></div>
+            </div>
+            <h1>Personal Portfolio</h1>
+            <p style={{fontSize: "14px", textAlign: "justify", padding: "5px", opacity: "0.8"}}>
+                The thing which you're currently using is my portfolio. I have used ReactJS to create my portfolio. You can check all my technical skills, education, and project works in my portfolio
+                {'\n\n\n'}<b>Tech Stack:</b> ReactJS
+            </p>
+            {'\n\n'}
+            <a href="https://github.com/Manoj-Paramsetti/portfolio-react" target="_blank" rel="noopener noreferrer">
+                <p style={{textAlign: "end", paddingRight: "8px"}}>Code</p>
+            </a>
+        </section>
+        <section id="card">
+            <div class="hovercard">
                 <img style={{height: "200px", objectFit: "cover"}} src="https://manoj-paramsetti.github.io/img/corona_bot.jpg" width="100%" alt="" srcSet="" />
                 <div class="bg"></div>
             </div>
@@ -127,14 +157,30 @@ function ProjectMain() {
             <h1>Morse Code Converter</h1>
             <p style={{fontSize: "14px", textAlign: "justify", padding: "5px", opacity: "0.8"}}>
                 A CLI tool to encrypt and decrypt morse code language. It's will convert simple text to morse code and morse code to simple text. It's independent to external library.{'\n\n\n'}
-                <b>Tech Stack:</b> Pyhton3
+                <b>Tech Stack:</b> Python3
             </p>
             {'\n'}
             <a href="https://github.com/Manoj-Paramsetti/ASCII-MorseCode" target="_blank" rel="noopener noreferrer">
                 <p style={{textAlign: "end", paddingRight: "8px"}}>Code</p>
             </a>
         </section>
-    </section>);
+        <section id="card">
+            <div class="hovercard">
+                <img style={{height: "200px"}} src="https://cdn.dribbble.com/users/710029/screenshots/6035284/rubberduck-happy_4_1_still_2x.gif?compress=1&resize=400x300" width="100%" alt="" srcSet="" />
+                <div class="bg"></div>
+            </div>
+            <h1>Tic Tac Toe Game</h1>
+            <p style={{fontSize: "14px", textAlign: "justify", padding: "5px", opacity: "0.8"}}>
+                I have created a small website to play Tic Tac Toe with the computer. The position of the boxes is chosen randomly for the computer to mark the place with O.
+                {'\n\n\n'}<b>Tech Stack:</b> Javascript, HTML and CSS
+            </p>
+            {'\n'}
+            <a href="https://manoj-paramsetti.github.io/tic-tac-toe/" target="_blank" rel="noopener noreferrer">
+                <p style={{textAlign: "end", paddingRight: "8px"}}>Try</p>
+            </a>
+        </section> 
+    </section>
+    );
 }
 
 export default ProjectMain;

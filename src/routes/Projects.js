@@ -17,13 +17,14 @@ function Project(){
                     <a href= "/" >About </a>{'\n\n'}
                     <a href="/technology"  >Technology </a>{'\n\n'}
                     <a href = "/projects" style={{color: "#FF5555"}} >Projects </a>{'\n\n'}
+                    <a target="_blank" rel="noreferrer" href="https://manoj-writes.hashnode.dev/">Blog</a>{'\n\n'}
                     <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1yJRO9gsKzwjuYChZ7v8P5DOxutcAhAEF/view">Resume</a>
                     {'\n\n\n'}
                     <h5 style={{opacity: "0.6", fontFamily: "Work Sans"}}>Contact</h5>{'\n'}
                     <a target = "_blank" rel="noreferrer" href = "mailto:paramsetti.manoj@gmail.com"  >E-mail </a>{'\n\n'}
                     <a target = "_blank" rel="noreferrer" href = "https://linkedin.com/in/manoj-paramsetti"  >LinkedIn </a>{'\n\n'}
                     <a target = "_blank" rel="noreferrer" href = "https://discord.com/users/777906489498271765"  >Discord </a>{'\n\n'}
-                    <a target = "_blank" rel="noreferrer" href = "https://t.me/ManojParamsetti"  >Telegram </a>{'\n\n'}
+                    <a target = "_blank" rel="noreferrer" href = "https://t.me/ManojParamsetti"  >Telegram </a>{'\n'}
                 </div>
             </div>
         );
@@ -67,6 +68,8 @@ function Project(){
             </section>
             <h2 style={{color: "#ee5253"}}>Projects</h2>{'\n\n'}
             <Main />
+            <p>You can find all my work on my <a href="https://github.com/Manoj-Paramsetti?tab=repositories" target="_blank" rel="noopener noreferrer">
+                GitHub</a></p>
         </div>
     )
 }
