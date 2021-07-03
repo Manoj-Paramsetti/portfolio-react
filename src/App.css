@@ -168,7 +168,6 @@ input[type="checkbox"]:checked~span:nth-of-type(3) {
 
 .Drawer {
     height: 100vh;
-    box-shadow: 0px 0px 10px grey;
     color: #121;
     z-index: 4;
     background: #FFF;
@@ -181,7 +180,6 @@ input[type="checkbox"]:checked~span:nth-of-type(3) {
 
 .DrawerHidden {
     height: 100vh;
-    box-shadow: 0px 0px 5px grey;
     color: #121;
     z-index: 4;
     background: #FFF;
@@ -195,7 +193,6 @@ input[type="checkbox"]:checked~span:nth-of-type(3) {
 
 .DrawerHiddenInitial {
     height: 100vh;
-    box-shadow: 0px 0px 10px grey;
     color: #121;
     z-index: 4;
     background: #FFF;
