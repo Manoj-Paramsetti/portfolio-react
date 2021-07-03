@@ -32,10 +32,17 @@ const Nav = (props) => {
             );
         }
     }
+    
     return(
         <section id="NavBar">
+        <NAV />
             <div id="NavBar__Left__Part">
-                <NAV />
+                <label for="check">
+                    <input type="checkbox" id="check"/> 
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </label>
             </div>
             <div id="NavBar__Right__Part">
                 <span id="linkedin">
