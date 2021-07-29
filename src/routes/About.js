@@ -75,7 +75,7 @@ function About(){
                     <a href = "/technology" >Technology </a>{'\n\n'}
                     <a href = "/projects" >Projects </a>{'\n\n'}
                     <a target="_blank" rel="noreferrer" href="https://manoj-writes.hashnode.dev/">Blog</a>{'\n\n'}
-                    <a target="_blank" href="https://drive.google.com/file/d/1yJRO9gsKzwjuYChZ7v8P5DOxutcAhAEF/view" rel="noreferrer">Resume</a>
+                    <a target="_blank" href="https://drive.google.com/file/d/1ROYK9tE3kjzJhp-7a0i_chp0-mS-DVT2/view" rel="noreferrer">Resume</a>
                     {'\n\n'}<hr style={{width: "80%", margin: "auto", opacity: "0.2"}} />{'\n'}
                     <a target = "_blank" rel="noreferrer" href = "mailto:paramsetti.manoj@gmail.com"  >E-mail </a>{'\n\n'}
                     <a target = "_blank" rel="noreferrer" href = "https://linkedin.com/in/manoj-paramsetti"  >LinkedIn </a>{'\n\n'}
@@ -130,9 +130,9 @@ function About(){
                     I'm pursuing my UG degree in Computer Science and Engineering (2020-2024)
                     at Sathyabama University, Chennai, India. I'm also a Technical Team Member at Google Developer Student Club. I'm seeking an internship opportunity 
                     in software development. Currently, I'm preparing myself for DevSecOps. 
-                    {'\n\n'}I like to spend my time on Hackathons, Competitive Programming, developing my apps and bot, and CTF Challenges. Feel free to invite me, If you're looking for a member in Hackathon and CP : D
-                    {'\n\n'}You can reach me out on <b><a rel="noreferrer" href="http://linkedin.com/in/Manoj-Paramsetti" target="_blank" className="LINK">LinkedIn</a> and <a target = "_blank" rel="noreferrer" href = "https://discord.com/users/777906489498271765"  >Discord </a></b> (Manoj Paramsetti#4427) : P</p>
-                    {'\n\n'}Don't forget to check out my Technology and Projects page : )
+                    {'\n\n'}I like to spend my time on Hackathons, Competitive Programming, developing my apps, bot, and CTF Challenges. Feel free to invite me, If you're looking for a member in Hackathon and CP :D
+                    {'\n\n'}You can reach me out on <b><a rel="noreferrer" href="http://linkedin.com/in/Manoj-Paramsetti" target="_blank" className="LINK">LinkedIn</a> and <a target = "_blank" rel="noreferrer" href = "https://discord.com/users/777906489498271765"  >Discord </a></b> (Manoj Paramsetti#4427) :P</p>
+                    {'\n\n'}Don't forget to check out my <b><a rel="noreferrer" href="http://linkedin.com/in/Manoj-Paramsetti" target="_blank" className="LINK">Technology</a> and <a target = "_blank" rel="noreferrer" href = "https://discord.com/users/777906489498271765"  >Projects </a></b> page : )
                 </div>
             </section>
         </div>

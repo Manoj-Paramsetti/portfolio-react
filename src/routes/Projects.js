@@ -77,7 +77,7 @@ function Project(){
                     <a href="/technology"  >Technology </a>{'\n\n'}
                     <a href = "/projects" style={{color: "#FF5555"}} >Projects </a>{'\n\n'}
                     <a target="_blank" rel="noreferrer" href="https://manoj-writes.hashnode.dev/">Blog</a>{'\n\n'}
-                    <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1yJRO9gsKzwjuYChZ7v8P5DOxutcAhAEF/view">Resume</a>
+                    <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1ROYK9tE3kjzJhp-7a0i_chp0-mS-DVT2/view">Resume</a>
                     {'\n\n'}<hr style={{width: "80%", margin: "auto", opacity: "0.2"}} />{'\n'}
                     <a target = "_blank" rel="noreferrer" href = "mailto:paramsetti.manoj@gmail.com"  >E-mail </a>{'\n\n'}
                     <a target = "_blank" rel="noreferrer" href = "https://linkedin.com/in/manoj-paramsetti"  >LinkedIn </a>{'\n\n'}
