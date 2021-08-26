@@ -146,7 +146,7 @@ function Tech(){
                     <li>Postman  <l style={{opacity: "0.7"}}>(Highly Comfortable)</l></li>
                 </ul>
                 {'\n\n'}
-                You can find all the above tech stack's projects on my <b><a rel="noreferrer" href="http://linkedin.com/in/Manoj-Paramsetti" target="_blank" className="LINK">GitHub</a></b>
+                You can find all the above tech stack's projects on my <b><a rel="noreferrer" href="http://github.com/Manoj-Paramsetti" target="_blank" className="LINK">GitHub</a></b>
                 <section style={{height:"88px"}}>
                 
                 </section>
