@@ -132,7 +132,7 @@ function About(){
                     in software development. Currently, I'm preparing myself for DevSecOps. 
                     {'\n\n'}I like to spend my time on Hackathons, Competitive Programming, developing my apps, bot, and CTF Challenges. Feel free to invite me, If you're looking for a member in Hackathon and CP :D
                     {'\n\n'}You can reach me out on <b><a rel="noreferrer" href="http://linkedin.com/in/Manoj-Paramsetti" target="_blank" className="LINK">LinkedIn</a> and <a target = "_blank" rel="noreferrer" href = "https://discord.com/users/777906489498271765"  >Discord </a></b> (Manoj Paramsetti#4427) :P</p>
-                    {'\n\n'}Don't forget to check out my <b><a rel="noreferrer" href="http://linkedin.com/in/Manoj-Paramsetti" target="_blank" className="LINK">Technology</a> and <a target = "_blank" rel="noreferrer" href = "https://discord.com/users/777906489498271765"  >Projects </a></b> page : )
+                    {'\n\n'}Don't forget to check out my <b><a rel="noreferrer" href="https://manojparamsetti.vercel.app/technology" target="_blank" className="LINK">Technology</a> and <a target = "_blank" rel="noreferrer" href = "https://manojparamsetti.vercel.app/projects"  >Projects </a></b> page : )
                 </div>
             </section>
         </div>
