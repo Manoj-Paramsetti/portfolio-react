@@ -152,7 +152,7 @@ function About(){
                         You can reach me out on 
                         <b>
                             <a rel="noreferrer" href="http://linkedin.com/in/Manoj-Paramsetti" target="_blank" className="LINK">
-                                {''} <u>Technology</u>
+                                {''} <u>LinkedIn</u>
                             </a> 
                         </b>
                             {''} and {''}
