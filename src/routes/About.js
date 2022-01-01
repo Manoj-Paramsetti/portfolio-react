@@ -126,13 +126,55 @@ function About(){
                 {'\n\n'}
                 <div id="aboutMe" >
                     <h2 style={{ opacity: "0.9"}}>About Me</h2>
+                    {'\n'}
                     <p style={{ opacity: "0.8", fontFamily: "Work Sans", marginLeft: "auto", marginRight: "auto", maxWidth: "720px",  textAlign: "justify"}}>
-                    I'm pursuing my UG degree in Computer Science and Engineering (2020-2024)
-                    at Sathyabama University, Chennai, India. I'm also a Technical Team Member at Google Developer Student Club. I'm seeking an internship opportunity 
-                    in software development. Currently, I'm preparing myself for DevSecOps. 
-                    {'\n\n'}I like to spend my time on Hackathons, Competitive Programming, developing my apps, bot, and CTF Challenges. Feel free to invite me, If you're looking for a member in Hackathon and CP :D
-                    {'\n\n'}You can reach me out on <b><a rel="noreferrer" href="http://linkedin.com/in/Manoj-Paramsetti" target="_blank" className="LINK">LinkedIn</a> and <a target = "_blank" rel="noreferrer" href = "https://discord.com/users/777906489498271765"  >Discord </a></b> (Manoj Paramsetti#4427) :P</p>
-                    {'\n\n'}Don't forget to check out my <b><a rel="noreferrer" href="https://manojparamsetti.vercel.app/technology" target="_blank" className="LINK">Technology</a> and <a target = "_blank" rel="noreferrer" href = "https://manojparamsetti.vercel.app/projects"  >Projects </a></b> page : )
+                        I'm pursuing my UG degree in Computer Science and Engineering (2020-2024)
+                        at Sathyabama University, Chennai, India. 
+                        {'\n\n'}
+                        I like to spend my time on Hackathons, Competitive Programming, developing my apps, bot, and CTF Challenges. Feel free to invite me, If you're looking for a member in Hackathon and CP :D
+                    </p>
+                        {'\n'}
+                        
+                    <h2>Work & Experience</h2>
+                    <p style={{ opacity: "0.8", fontFamily: "Work Sans", marginLeft: "auto", marginRight: "auto", maxWidth: "720px",  textAlign: "justify"}}>
+                        {'\n'}
+                        - Technical Head at Microsoft Club
+                        {'\n'}
+                        - Frontend developer at TechSnap
+                        {'\n'}
+                        - Technical Team Member at Google Developer Student CLub (Season 4) 
+                        {'\n\n  '}
+                        I'm seeking an internship opportunity 
+                        in software development. Currently, I'm preparing myself for DevSecOps. 
+                        {'\n\n'}
+                        {'\n\n'}
+                    </p>
+                        You can reach me out on 
+                        <b>
+                            <a rel="noreferrer" href="http://linkedin.com/in/Manoj-Paramsetti" target="_blank" className="LINK">
+                                {''} <u>Technology</u>
+                            </a> 
+                        </b>
+                            {''} and {''}
+                        <b> 
+                            <a target = "_blank" rel="noreferrer" href="https://discord.com/users/777906489498271765">
+                            <u>Discord</u> </a>
+                        </b>
+                            (Manoj Paramsetti#4427) ✨
+
+                    {'\n\n'}
+                    Don't forget to check out my <b>
+                        <a rel="noreferrer" href="https://manojparamsetti.vercel.app/technology" target="_blank" className="LINK">
+                            <u>Technology</u>
+                        </a></b> and <b><a target = "_blank" rel="noreferrer" href = "https://manojparamsetti.vercel.app/projects"  >
+                            <u>Projects</u>
+                        </a></b> page
+                        {'\n'}
+                        {'\n'}
+                        {'\n'}
+                        <i style={{opacity: 0.3}}>
+                            Last Modified on: 01-01-2022
+                        </i>
                 </div>
             </section>
         </div>

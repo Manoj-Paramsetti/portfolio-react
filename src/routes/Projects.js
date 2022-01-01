@@ -121,6 +121,9 @@ function Project(){
             <p>You can find all my work on my <a href="https://github.com/Manoj-Paramsetti?tab=repositories" target="_blank" style={{color: "#ee5454"}}rel="noopener noreferrer">
                 GitHub</a></p>
                 {'\n\n\n'}
+            <i style={{opacity: 0.3}}>
+                Last Modified on: 01-01-2022
+            </i>
         </div>
     )
 }

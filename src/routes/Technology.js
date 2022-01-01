@@ -147,6 +147,10 @@ function Tech(){
                 </ul>
                 {'\n\n'}
                 You can find all the above tech stack's projects on my <b><a rel="noreferrer" href="http://github.com/Manoj-Paramsetti" target="_blank" className="LINK">GitHub</a></b>
+                {'\n\n\n'}
+                <i style={{opacity: 0.3}}>
+                Last Modified on: 01-01-2022
+                </i>
                 <section style={{height:"88px"}}>
                 
                 </section>
