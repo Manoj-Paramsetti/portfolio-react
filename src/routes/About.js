@@ -129,7 +129,7 @@ function About(){
                     {'\n'}
                     <p style={{ opacity: "0.8", fontFamily: "Work Sans", marginLeft: "auto", marginRight: "auto", maxWidth: "720px",  textAlign: "justify"}}>
                         I'm pursuing my UG degree in Computer Science and Engineering (2020-2024)
-                        at Sathyabama University, Chennai, India. 
+                        at Sathyabama Institute of Science and Technology (SIST), Chennai, India. 
                         {'\n\n'}
                         I like to spend my time on Hackathons, Competitive Programming, developing my apps, bot, and CTF Challenges. Feel free to invite me, If you're looking for a member in Hackathon and CP :D
                     </p>
@@ -138,9 +138,11 @@ function About(){
                     <h2>Work & Experience</h2>
                     <p style={{ opacity: "0.8", fontFamily: "Work Sans", marginLeft: "auto", marginRight: "auto", maxWidth: "720px",  textAlign: "justify"}}>
                         {'\n'}
-                        - Technical Head at Microsoft Club
+                        - Technical Head at Microsoft Club (SIST)
                         {'\n'}
-                        - Frontend developer at TechSnap
+                        - Special Interest Coordinator in Google Developer Student Club (SIST)
+                        {'\n'}
+                        - Frontend developer at TechSnap, India
                         {'\n'}
                         - Technical Team Member at Google Developer Student CLub (Season 4) 
                         {'\n\n  '}
